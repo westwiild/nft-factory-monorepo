@@ -1,0 +1,4 @@
+.vscode/
+.wake/
+
+node_modules/
